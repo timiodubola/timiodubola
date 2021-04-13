@@ -29,7 +29,7 @@ A software engineer that loves creating web products and working with AWS. If yo
 
 -----------------------------------
 
-📘 Latest Blog Articles
+📘 Latest Blog Article
 
 - [Data structure and algorithm not difficult like you think](https://odubolaoluwatimilehin.medium.com/data-structure-and-algorithm-not-difficult-like-you-think-f35ae9f32a48)
 
