@@ -3,13 +3,13 @@
 **Odubolaoluwatimilehin/Odubolaoluwatimilehin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 #### My name is Oluwatimilehin Odubola... I Build :construction_worker:, I Ship :rocket:  and Scale Products :chart_with_upwards_trend:.
 
-A software engineer that loves creating web products and working with AWS.
+A software engineer that loves creating web products and working with AWS. If you looking for your swiss knife nerdy 🤓 , **YOU** are definitely on the right page, I love working on products from end-to-end, but inasmuch that I can fit in across various teams(Frontend, Backend, DevOps)..you find me most times working on server-side of things(Backend) or deployment(DevOps).
 
-- 🔭 I’m currently building and maintaining productivity tool and products. [PageGloss](https://github.com/Odubolaoluwatimilehin/PageGloss) and PageWatch(launching soon):fire:.
-- 👯 I’m looking to collaborate and work on open source tools.
-- :grin: I love writing and creating tech content. Catch up with me at **"Tech and everything between""** in my weekly newsletter. Subscribe [📫](https://buttondown.email/Itz_timilehin)
--  🤔 I consider myself a "tech-people" person because in as much I love working on the technical side of things (I.e writhing codes and building systems), I also enjoy communicating with people and building communities.
-- ⚡ Fun fact: ...aside punching my keyboard, I love playing the game of chess and reading books to get knowelge on different facets of life . 
+- 🔭 I’m currently building and maintaining productivity tools and products. [PageGloss](https://github.com/Odubolaoluwatimilehin/PageGloss) and PageWatch(launching soon):fire:.
+- 👯 I’m looking to collaborate and work on open-source tools.
+- :grin: I love writing and creating tech content. Catch up with me at **"Tech and everything between"** in my weekly newsletter. Subscribe [📫](https://buttondown.email/Itz_timilehin)
+-  🤔 I consider myself a "tech-people" person because in as much I love working on the technical side of things (I.e writhing codes and building systems), I also enjoy communicating with people and building communities.
+- ⚡ Fun fact: ...aside from punching my keyboard, I love playing the game of chess and reading books to get knowledge on different facets of life . 
 
 -----------------------------------
 
@@ -33,7 +33,10 @@ A software engineer that loves creating web products and working with AWS.
 
 - [Data structure and algorithm not difficult like you think](https://odubolaoluwatimilehin.medium.com/data-structure-and-algorithm-not-difficult-like-you-think-f35ae9f32a48)
 
+🧮 StackOverflow Profile
+
 -[StackOverflow Profile](https://stackoverflow.com/users/10757574/odubola-oluwatimilehin?tab=profile)
+
 I am currently open to hiring for web development, dev advocate and cloud/devops position. 
 
-- 📫 How to reach me: Email (odubolaoluwatimilehin@gmail.com)
+- 📫 How to reach me: [odubolaoluwatimilehin@gmail.com](odubolaoluwatimilehin@gmail.com)
