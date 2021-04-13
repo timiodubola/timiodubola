@@ -7,8 +7,8 @@ A software engineer that loves creating web products and working with AWS. If yo
 
 - 🔭 I’m currently building and maintaining productivity tools and products. [PageGloss](https://github.com/Odubolaoluwatimilehin/PageGloss) and PageWatch(launching soon):fire:.
 - 👯 I’m looking to collaborate and work on open-source tools.
-- :grin: I love writing and creating tech content. Catch up with me at **"Tech and everything between"** in my weekly newsletter. Subscribe [📫](https://buttondown.email/Itz_timilehin)
--  🤔 I consider myself a "tech-people" person because in as much I love working on the technical side of things (I.e writhing codes and building systems), I also enjoy communicating with people and building communities.
+- ✍️ I love writing and creating tech content. Catch up with me at **"Tech and everything between"** in my monthly newsletter. Subscribe [📫](https://buttondown.email/Itz_timilehin)
+- :grin: I consider myself a "tech-people" person because in as much I love working on the technical side of things (I.e writhing codes and building systems), I also enjoy communicating with people and building communities.
 - ⚡ Fun fact: ...aside from punching my keyboard, I love playing the game of chess and reading books to get knowledge on different facets of life . 
 
 -----------------------------------
@@ -35,8 +35,8 @@ A software engineer that loves creating web products and working with AWS. If yo
 
 🧮 StackOverflow Profile
 
--[StackOverflow Profile](https://stackoverflow.com/users/10757574/odubola-oluwatimilehin?tab=profile)
+- [StackOverflow Profile](https://stackoverflow.com/users/10757574/odubola-oluwatimilehin?tab=profile)
 
-I am currently open to hiring for web development, dev advocate and cloud/devops position. 
+**I am currently open to web development,dev advocate and cloud/devops position.** 
 
 - 📫 How to reach me: [odubolaoluwatimilehin@gmail.com](odubolaoluwatimilehin@gmail.com)
