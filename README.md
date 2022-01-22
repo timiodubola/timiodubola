@@ -29,8 +29,8 @@ A software engineer that loves creating web products and working with AWS. If yo
 
 -----------------------------------
 
-🏅 AWS Badegs and certifications
-- [AWS Badegs and certifications](https://www.credly.com/users/oluwatimilehin-odubola/badges)
+🏅 AWS Badge and certifications
+- [AWS Badge and certifications](https://www.credly.com/users/oluwatimilehin-odubola/badges)
 
 📘 Latest Blog Article
 
