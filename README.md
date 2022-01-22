@@ -3,7 +3,7 @@
 **Odubolaoluwatimilehin/Odubolaoluwatimilehin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 #### My name is Oluwatimilehin Odubola... I Build :construction_worker:, I Ship :rocket:  and Scale Products :chart_with_upwards_trend:.
 
-A software engineer that loves creating web products and working with AWS. If you looking for your "swiss knife" nerdy 🤓 , **YOU** are definitely on the right page. I love working on products from end-to-end, but inasmuch that I can fit in across various teams(Frontend, Backend, DevOps)...you find me most times working on server-side of things(Backend) or deployment(DevOps).
+A software engineer that loves creating web products and working with AWS. If you looking for your "swiss knife" nerdy 🤓 , **YOU** are definitely on the right page. I have worked on products from end-to-end, but inasmuch that I can fit in across various teams(Frontend, Backend, DevOps)...you find me most times working on server-side of things(Backend) or deployment(DevOps).
 
 - 🔭 I’m currently building and maintaining productivity tools and products. [PageGloss](https://github.com/Odubolaoluwatimilehin/PageGloss) and PageWatch(launching soon):fire:.
 - 👯 I’m looking to collaborate and work on open-source tools.
@@ -28,6 +28,9 @@ A software engineer that loves creating web products and working with AWS. If yo
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
 
 -----------------------------------
+
+ Latest Blog Article
+- [AWS Badegs and certifications](https://www.credly.com/users/oluwatimilehin-odubola/badges)
 
 📘 Latest Blog Article
 
