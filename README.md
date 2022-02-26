@@ -1,10 +1,10 @@
 
 <!--
 
-![Navy Orange Simple Aesthetic Content Creator LinkedIn Banner](https://user-images.githubusercontent.com/30158512/155854427-43aa8f59-c6a4-44d9-8d8f-2bad94262889.png)
-
 
 **Odubolaoluwatimilehin/Odubolaoluwatimilehin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+![Navy Orange Simple Aesthetic Content Creator LinkedIn Banner](https://user-images.githubusercontent.com/30158512/155854427-43aa8f59-c6a4-44d9-8d8f-2bad94262889.png)
 #### My name is Oluwatimilehin Odubola,... I Build :construction_worker:, I Ship :rocket:  and Scale Products :chart_with_upwards_trend:.
 
 I consider myself a "tech-people" person because in as much I love working on the technical side of things (I.e writhing codes and building systems), I also enjoy communicating with people and building communities.
