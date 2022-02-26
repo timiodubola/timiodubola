@@ -5,7 +5,12 @@
 **Odubolaoluwatimilehin/Odubolaoluwatimilehin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ![Navy Orange Simple Aesthetic Content Creator LinkedIn Banner](https://user-images.githubusercontent.com/30158512/155854427-43aa8f59-c6a4-44d9-8d8f-2bad94262889.png)
-#### My name is Oluwatimilehin Odubola,... I Build :construction_worker:, I Ship :rocket:  and Scale Products :chart_with_upwards_trend:.
+#### My name is Oluwatimilehin Odubola,... I Build :construction_worker:, I Ship :rocket:  and Scale Products :chart_with_upwards_trend:
+
+
+[<img height="30" alt="Twitter - miracle_404" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter] 
+[<img height="30" alt="Linkedin - anuradha15" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" alt="YouTube channel" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
 
 I consider myself a "tech-people" person because in as much I love working on the technical side of things (I.e writhing codes and building systems), I also enjoy communicating with people and building communities.
 
@@ -14,6 +19,7 @@ I consider myself a "tech-people" person because in as much I love working on th
   Catch up with me at **"Tech and everything between"** in my monthly newsletter. 
   
   Subscribe [📫](https://buttondown.email/Itz_timilehin)
+  
 
 -----------------------------------
 
@@ -29,3 +35,8 @@ I consider myself a "tech-people" person because in as much I love working on th
 - [StackOverflow Profile](https://stackoverflow.com/users/10757574/odubola-oluwatimilehin?tab=profile)
 
 - 📫 How to reach me: [odubolaoluwatimilehin@gmail.com](odubolaoluwatimilehin@gmail.com)
+
+
+
+[twitter]: https://twitter.com/timiodubola
+[linkedin]: https://www.linkedin.com/in/oluwatimilehinodubola/
