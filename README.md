@@ -12,7 +12,7 @@
 [<img height="30" alt="Linkedin - anuradha15" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 
-I consider myself a "tech-people" person because in as much I love working on the technical side of things (I.e writhing codes and building systems), I also enjoy communicating with people and building communities.
+I consider myself a "tech-people" person because in as much I love working on the technical side of things (I.e writing codes and building systems), I also enjoy communicating with people and building communities.
 
 - 🔭 I’m currently building and maintaining productivity tool [PageGloss](https://github.com/Odubolaoluwatimilehin/PageGloss) and PageWatch(launching soon):fire:.
 - ✍️ I love writing and creating tech content. 
