@@ -13,13 +13,7 @@
 
 I consider myself a "tech-people" person because, while I enjoy working on the technical side of things (such as writing codes and building systems), I also enjoy communicating with others and building communities.
 
-🔭 I’m currently building and maintaining productivity tool [PageGloss](https://github.com/Odubolaoluwatimilehin/PageGloss) :fire:.
-
-✍️ I love writing and creating tech content. 
-  Catch up with me at **"Tech and everything between"** in my monthly newsletter. 
-  
-  Subscribe [📫](https://buttondown.email/Itz_timilehin)
-  
+🔭 I’m currently building and maintaining productivity tool [PageGloss](https://github.com/Odubolaoluwatimilehin/PageGloss) :fire:.  
 
 🏅 Certifications
 - [AWS badge and certifications](https://www.credly.com/users/oluwatimilehin-odubola/badges)
