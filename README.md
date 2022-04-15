@@ -11,7 +11,7 @@
 [<img height="30" alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" alt="Linkedin" src="https://user-images.githubusercontent.com/30158512/159265675-a0cc413e-5eaf-4cca-9568-768e89dabe25.svg"/>][StackOverflow]
 
-I consider myself a "tech-people" person because, while I enjoy working on the technical side of things (such as writing codes and building systems), I also enjoy communicating with others and building communities.
+I consider myself a "tech-people" person because, while I enjoy working on the technical side of things (such as writing codes and building systems), I also enjoy communicating with people and building/growing tech communities.
 
 🔭 I’m currently building and maintaining productivity tool [PageGloss](https://github.com/Odubolaoluwatimilehin/PageGloss) :fire:.  
 
