@@ -35,4 +35,4 @@ Catch up with me at **"Tech and everything between"** in my monthly newsletter. 
 [linkedin]: https://www.linkedin.com/in/oluwatimilehinodubola/
 [StackOverflow]: https://stackoverflow.com/users/10757574/odubola-oluwatimilehin?tab=profile
 
-Old Webflow webiste -> odubolaoluwatimi.webflow.io/
+Old Webflow webiste -> https://odubolaoluwatimi.webflow.io/
